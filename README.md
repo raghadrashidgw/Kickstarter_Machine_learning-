@@ -13,7 +13,7 @@ Projects with a higher success rate :
  significant number of backers.
  Launching a project in any of these categories on
  Kickstarter is highly recommended.
-![](SuccessRatioPlot)
+![](SuccessRatioPlot.png)
 A machine learning model developed to predict the amount of pledge of a project in Kickstarter 
 
 
